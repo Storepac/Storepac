@@ -76,12 +76,17 @@ código-fonte, só o raciocínio.
 
 ## Stack
 
-<div align="center">
+**Produto e código**  
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0F1C?style=flat-square&logo=typescript&logoColor=3B82F6) ![Next.js](https://img.shields.io/badge/Next.js-0A0F1C?style=flat-square&logo=nextdotjs&logoColor=3B82F6) ![React](https://img.shields.io/badge/React-0A0F1C?style=flat-square&logo=react&logoColor=3B82F6) ![Node.js](https://img.shields.io/badge/Node.js-0A0F1C?style=flat-square&logo=nodedotjs&logoColor=3B82F6) ![Rust](https://img.shields.io/badge/Rust-0A0F1C?style=flat-square&logo=rust&logoColor=3B82F6) ![Python](https://img.shields.io/badge/Python-0A0F1C?style=flat-square&logo=python&logoColor=3B82F6) ![Tailwind](https://img.shields.io/badge/Tailwind-0A0F1C?style=flat-square&logo=tailwindcss&logoColor=3B82F6)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0F1C?style=flat-square&logo=typescript&logoColor=3B82F6) ![Next.js](https://img.shields.io/badge/Next.js-0A0F1C?style=flat-square&logo=nextdotjs&logoColor=3B82F6) ![React](https://img.shields.io/badge/React-0A0F1C?style=flat-square&logo=react&logoColor=3B82F6) ![Node.js](https://img.shields.io/badge/Node.js-0A0F1C?style=flat-square&logo=nodedotjs&logoColor=3B82F6) ![Tailwind](https://img.shields.io/badge/Tailwind-0A0F1C?style=flat-square&logo=tailwindcss&logoColor=3B82F6) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F1C?style=flat-square&logo=postgresql&logoColor=3B82F6) ![Supabase](https://img.shields.io/badge/Supabase-0A0F1C?style=flat-square&logo=supabase&logoColor=3B82F6) ![Python](https://img.shields.io/badge/Python-0A0F1C?style=flat-square&logo=python&logoColor=3B82F6) ![Gemini](https://img.shields.io/badge/Gemini-0A0F1C?style=flat-square&logo=googlegemini&logoColor=3B82F6) ![Vercel](https://img.shields.io/badge/Vercel-0A0F1C?style=flat-square&logo=vercel&logoColor=3B82F6)
+**Dados e infraestrutura**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F1C?style=flat-square&logo=postgresql&logoColor=3B82F6) ![Supabase](https://img.shields.io/badge/Supabase-0A0F1C?style=flat-square&logo=supabase&logoColor=3B82F6) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0A0F1C?style=flat-square&logo=googlecloud&logoColor=3B82F6) ![Vercel](https://img.shields.io/badge/Vercel-0A0F1C?style=flat-square&logo=vercel&logoColor=3B82F6)
 
-</div>
+**IA**  
+![Claude](https://img.shields.io/badge/Claude-0A0F1C?style=flat-square&logo=claude&logoColor=3B82F6) ![GPT](https://img.shields.io/badge/GPT-0A0F1C?style=flat-square&logo=openai&logoColor=3B82F6) ![Gemini](https://img.shields.io/badge/Gemini-0A0F1C?style=flat-square&logo=googlegemini&logoColor=3B82F6)
 
+**Growth e mensuração**  
+![GA4](https://img.shields.io/badge/GA4-0A0F1C?style=flat-square&logo=googleanalytics&logoColor=3B82F6) ![Search Console](https://img.shields.io/badge/Search%20Console-0A0F1C?style=flat-square&logo=googlesearchconsole&logoColor=3B82F6) ![Google Ads](https://img.shields.io/badge/Google%20Ads-0A0F1C?style=flat-square&logo=googleads&logoColor=3B82F6)
 <br>
 
 <div align="center">
