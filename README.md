@@ -4,9 +4,7 @@
 
 <br>
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-techforweb.com.br-3B82F6?style=for-the-badge&labelColor=0A0F1C)](https://techforweb.com.br)
-[![Learning Lab](https://img.shields.io/badge/Learning%20Lab-ideias.techforweb-3B82F6?style=for-the-badge&labelColor=0A0F1C)](https://ideias.techforweb.com.br)
-[![Instagram](https://img.shields.io/badge/@techforweb-3B82F6?style=for-the-badge&labelColor=0A0F1C&logo=instagram&logoColor=white)](https://www.instagram.com/techforweb/)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-techforweb.com.br-3B82F6?style=for-the-badge&labelColor=0A0F1C)](https://techforweb.com.br) [![Learning Lab](https://img.shields.io/badge/Learning%20Lab-ideias.techforweb-3B82F6?style=for-the-badge&labelColor=0A0F1C)](https://ideias.techforweb.com.br) [![Instagram](https://img.shields.io/badge/@techforweb-3B82F6?style=for-the-badge&labelColor=0A0F1C&logo=instagram&logoColor=white)](https://www.instagram.com/techforweb/)
 
 </div>
 
@@ -80,16 +78,7 @@ código-fonte, só o raciocínio.
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0F1C?style=flat-square&logo=typescript&logoColor=3B82F6)
-![Next.js](https://img.shields.io/badge/Next.js-0A0F1C?style=flat-square&logo=nextdotjs&logoColor=3B82F6)
-![React](https://img.shields.io/badge/React-0A0F1C?style=flat-square&logo=react&logoColor=3B82F6)
-![Node.js](https://img.shields.io/badge/Node.js-0A0F1C?style=flat-square&logo=nodedotjs&logoColor=3B82F6)
-![Tailwind](https://img.shields.io/badge/Tailwind-0A0F1C?style=flat-square&logo=tailwindcss&logoColor=3B82F6)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F1C?style=flat-square&logo=postgresql&logoColor=3B82F6)
-![Supabase](https://img.shields.io/badge/Supabase-0A0F1C?style=flat-square&logo=supabase&logoColor=3B82F6)
-![Python](https://img.shields.io/badge/Python-0A0F1C?style=flat-square&logo=python&logoColor=3B82F6)
-![Gemini](https://img.shields.io/badge/Gemini-0A0F1C?style=flat-square&logo=googlegemini&logoColor=3B82F6)
-![Vercel](https://img.shields.io/badge/Vercel-0A0F1C?style=flat-square&logo=vercel&logoColor=3B82F6)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0F1C?style=flat-square&logo=typescript&logoColor=3B82F6) ![Next.js](https://img.shields.io/badge/Next.js-0A0F1C?style=flat-square&logo=nextdotjs&logoColor=3B82F6) ![React](https://img.shields.io/badge/React-0A0F1C?style=flat-square&logo=react&logoColor=3B82F6) ![Node.js](https://img.shields.io/badge/Node.js-0A0F1C?style=flat-square&logo=nodedotjs&logoColor=3B82F6) ![Tailwind](https://img.shields.io/badge/Tailwind-0A0F1C?style=flat-square&logo=tailwindcss&logoColor=3B82F6) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F1C?style=flat-square&logo=postgresql&logoColor=3B82F6) ![Supabase](https://img.shields.io/badge/Supabase-0A0F1C?style=flat-square&logo=supabase&logoColor=3B82F6) ![Python](https://img.shields.io/badge/Python-0A0F1C?style=flat-square&logo=python&logoColor=3B82F6) ![Gemini](https://img.shields.io/badge/Gemini-0A0F1C?style=flat-square&logo=googlegemini&logoColor=3B82F6) ![Vercel](https://img.shields.io/badge/Vercel-0A0F1C?style=flat-square&logo=vercel&logoColor=3B82F6)
 
 </div>
 
