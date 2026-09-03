@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" width="1280" height="340" role="img" aria-label="TechForWeb — Anderson, Growth Product Manager">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0F1C"/>
+      <stop offset="100%" stop-color="#0D1424"/>
+    </linearGradient>
+
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.30"/>
+      <stop offset="60%" stop-color="#3B82F6" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="340" fill="url(#bg)"/>
+  <rect width="1280" height="340" fill="url(#grid)"/>
+  <ellipse cx="1010" cy="120" rx="420" ry="330" fill="url(#glow)"/>
+
+  <circle cx="1010" cy="170" r="150" fill="none" stroke="#3B82F6" stroke-opacity="0.18" stroke-width="1"/>
+  <circle cx="1010" cy="170" r="228" fill="none" stroke="#3B82F6" stroke-opacity="0.10" stroke-width="1"/>
+  <circle cx="1122" cy="72" r="5" fill="#3B82F6"/>
+  <circle cx="905" cy="288" r="4" fill="#3B82F6" fill-opacity="0.6"/>
+
+  <g font-family="Segoe UI, system-ui, -apple-system, Helvetica, Arial, sans-serif">
+    <text x="84" y="104" font-size="19" font-weight="700" letter-spacing="6.5" fill="#3B82F6">TECHFORWEB</text>
+
+    <text x="84" y="184" font-size="66" font-weight="800" fill="#F8FAFC">Anderson</text>
+
+    <text x="84" y="232" font-size="30" font-weight="600" fill="#94A3B8">Growth Product Manager</text>
+
+    <rect x="84" y="266" width="128" height="2" rx="1" fill="url(#rule)"/>
+
+    <text x="84" y="303" font-size="20" font-weight="400" fill="#64748B">Transformo operação real em produto.</text>
+  </g>
+</svg>
