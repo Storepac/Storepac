@@ -1,6 +1,6 @@
 <div align="center">
 
-![TechForWeb — Anderson, Growth Product Manager](assets/banner.svg)
+![TechForWeb: Anderson, Growth Product Manager](assets/banner.svg)
 
 <br>
 
@@ -63,13 +63,13 @@ Experimentos para testar verticais, modelos de negócio e hipóteses de produto.
 
 ## Código aberto aqui
 
-**[gerador-ideias](https://github.com/Storepac/gerador-ideias)** — o Learning Lab
-inteiro. Next.js 15, React 19 e Gemini com guardrails de custo: cota diária por
+**[gerador-ideias](https://github.com/Storepac/gerador-ideias)** é o Learning
+Lab inteiro. Next.js 15, React 19 e Gemini com guardrails de custo: cota diária por
 navegador, limite por IP e kill switch por variável de ambiente. Feito para
 estudar e para quem quiser estudar junto.
 
-**[techforweb-cases](https://github.com/Storepac/techforweb-cases)** — estudos de
-caso em markdown: problema, decisão de produto, arquitetura e aprendizado. Sem
+**[techforweb-cases](https://github.com/Storepac/techforweb-cases)** reúne
+estudos de caso em markdown: problema, decisão de produto, arquitetura e aprendizado. Sem
 código-fonte, só o raciocínio.
 
 <br>
@@ -91,5 +91,5 @@ código-fonte, só o raciocínio.
 
 <div align="center">
 <sub>Herculândia · SP · Brasil</sub><br>
-<sub>Aberto a conversar sobre produto, growth e operação — <a href="https://techforweb.com.br">techforweb.com.br</a></sub>
+<sub>Aberto a conversar sobre produto, growth e operação: <a href="https://techforweb.com.br">techforweb.com.br</a></sub>
 </div>
