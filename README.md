@@ -21,7 +21,7 @@ Data & Growth Intelligence · E-commerce e marketplace
 
 > ### Por que os repositórios são privados
 >
-> A maior parte do que construo roda para operações reais — com dados de
+> A maior parte do que construo roda para operações reais com dados de
 > clientes, integrações de marketplace e regras fiscais. Por isso o código fica
 > fechado.
 >
