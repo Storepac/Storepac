@@ -39,7 +39,7 @@ Data & Growth Intelligence · E-commerce e marketplace
 | 📅 | **[AgendaPro](https://agendapro.techforweb.com.br)** | Agendamento que precisava virar SaaS multi-tenant, e não sistema de um cliente só | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
 | 📊 | **NFE-AMK** | DRE e realidade fiscal só visíveis no fechamento, tarde demais para decidir | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
 | 🛒 | **[LojaHub / Catálogo](https://catalogo.techforweb.com.br/)** | Vender por catálogo e WhatsApp sem carregar a complexidade de um e-commerce completo | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
-| 🌱 | **[AMK Assistente IA](https://ia.lojaamk.com.br/assistente-ia)** | Dúvida técnica de jardinagem travando a decisão de compra | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
+| 🌱 | **[Seiva](https://ia.lojaamk.com.br/assistente-ia)** | Dúvida técnica de jardinagem travando a decisão de compra | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
 | 💳 | **T4W Pay** | Infraestrutura de pagamento white-label para os produtos do estúdio | ![em desenvolvimento](https://img.shields.io/badge/em%20desenvolvimento-64748B?style=flat-square) |
 
 <sub>![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) em produção, com acesso liberado para um grupo limitado de usuários &nbsp;·&nbsp; ![em desenvolvimento](https://img.shields.io/badge/em%20desenvolvimento-64748B?style=flat-square) em construção, ainda sem usuários testando</sub>
