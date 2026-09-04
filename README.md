@@ -36,6 +36,7 @@ Data & Growth Intelligence · E-commerce e marketplace
 | | Produto | Problema que resolve | Status |
 |:--|:--|:--|:--|
 | 🧩 | **Voke** | Pedidos, estoque, custo, margem e expedição espalhados entre canais, ERP e planilhas | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
+| 🏝️ | **[Weeka](https://www.weeka.com.br/)** | Busca de viagem devolve lista infinita, preço que muda e disponibilidade que não se confirma | Marketplace · Travel | ![no ar](https://img.shields.io/badge/no%20ar-22C55E?style=flat-square) |
 | 📅 | **[AgendaPro](https://agendapro.techforweb.com.br)** | Agendamento que precisava virar SaaS multi-tenant, e não sistema de um cliente só | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
 | 📊 | **NFE-AMK** | DRE e realidade fiscal só visíveis no fechamento, tarde demais para decidir | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
 | 🛒 | **[LojaHub / Catálogo](https://catalogo.techforweb.com.br/)** | Vender por catálogo e WhatsApp sem carregar a complexidade de um e-commerce completo | ![semi-prod](https://img.shields.io/badge/semi--prod-3B82F6?style=flat-square) |
